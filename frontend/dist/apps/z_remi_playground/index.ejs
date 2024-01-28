@@ -1,0 +1,20 @@
+<br>
+<h1>This is Remi's playground</h1>
+<br>
+
+
+<%# Example from https://ionicabizau.github.io/ejs-playground/ %>
+<%
+    var phones = ["Google Pixel", "Apple iPhone", "Sony Ericsson"]
+      , random = " ".repeat(198).split("").map(x => Math.random())
+      ;
+%>
+
+<%# Example from https://ionicabizau.github.io/ejs-playground/ %>
+Here are the phones:
+<% for(var i = 0; i < phones.length; ++i) {%>
+  - <%=phones[i]%>_test<% } %>
+
+<br><br>
+
+https://ionicabizau.github.io/ejs-playground/
