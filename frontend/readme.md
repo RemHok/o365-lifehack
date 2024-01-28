@@ -11,6 +11,9 @@ To update apico: (not sure) remove apico line from dependencies then rerun `npm 
 
 To do list will eventually be moved.
 
+
+* Need to fix login.ejs and login.ejs stylings. See the [Bootstrap docs](https://getbootstrap.com/docs/5.3/utilities/flex/)
+
 ---
 #### HOMEWORK MONDAY 2024-01-29
 
