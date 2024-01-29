@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "apico": "^1.0.10"
+    "apico": "^1.0.13"
   }
 }

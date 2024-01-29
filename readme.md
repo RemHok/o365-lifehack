@@ -5,14 +5,20 @@
 Note to self: `npm i` then `node .\index.js`.
 
 Add app: ` npx lh app login`.
-To update apico: (not sure) remove apico line from dependencies then rerun `npm install apico`.
+To update apico: `npm i apico`.
 
 ### TO DO
 
 To do list will eventually be moved.
 
 
+#### HOMEWORK FOR THURSDAY 2024-02-01
+
 * Need to fix login.ejs and login.ejs stylings. See the [Bootstrap docs](https://getbootstrap.com/docs/5.3/utilities/flex/)
+
+1. ASD
+2. ASD
+3. ASD
 
 ---
 #### HOMEWORK MONDAY 2024-01-29
