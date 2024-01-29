@@ -13,8 +13,38 @@
 </head>
 <body class="a-container bg-light">
     
-    <%- include ("../partials/header.ejs")%> <!-- the two "." allows us to jump up two lvls then back down  -->
-    <%- include ("../partials/footer.ejs")%> <!-- the two "." allows us to jump up two lvls then back down  -->
+
+    <div class="row">
+        <%- include("../partials/header") %>
+    </div>
+
+    <div class="row">
+        <%- body >
+    </div>
+
+----------------------
+
+    <!-- </%- include ("../partials/header.ejs")%> the two "." allows us to jump up two lvls then back down -->
+    <!-- </%- include ("../partials/footer.ejs")%> the two "." allows us to jump up two lvls then back down -->
+
+    <div class="border container">
+        Container
+        <div class="border row">
+            First row
+        </div>
+
+        <div class="border border-primary m-4 p-4" row> <!-- m = margin / p = padding -->
+            second row
+            <div class="col-1 border-success"> <!-- col = column -->
+                column 1
+            </div>
+            <div class="col-11 border-success"> <!-- col = column -->
+                column 2
+            </div>
+        </div>
+
+    </div>>
+
 
     <main class="a-body ">
         <%- body %>
