@@ -4,7 +4,7 @@
 
 Note to self: `npm i` then `node .\index.js`.
 
-Add app: ` npx lh app login`.
+Add app: `npx lh app login` or `npx lh app auth/login`.
 To update apico: `npm i apico`.
 
 ### TO DO
@@ -14,21 +14,23 @@ To do list will eventually be moved.
 
 #### HOMEWORK FOR THURSDAY 2024-02-01
 
-* Need to fix login.ejs and login.ejs stylings. See the [Bootstrap docs](https://getbootstrap.com/docs/5.3/utilities/flex/)
+* Need to fix login.ejs and login.ejs stylings. [flex](https://getbootstrap.com/docs/5.3/utilities/flex/).
 
-1. ASD
-2. ASD
-3. ASD
+1. [Bootstrap](https://getbootstrap.com/docs/5.3/)
+   1. Layout section
+   2. Grid section
+   3. Utilities
+      1. [Background](https://getbootstrap.com/docs/5.3/utilities/background/), [colors](https://getbootstrap.com/docs/5.3/utilities/colors/), [borders](https://getbootstrap.com/docs/5.3/utilities/borders/), [display](https://getbootstrap.com/docs/5.3/utilities/display/), [flex](https://getbootstrap.com/docs/5.3/utilities/flex/)
+
+* Free prototype site: [render.com](https://render.com/). Sign in using GitHub and connect to repo. Build command: `npm i` and start command `node index`.
 
 ---
 #### HOMEWORK MONDAY 2024-01-29
 
-1. EXAM on omega465
+1. EXAM on omega365
 2. Bootstrap
 3. `Login` and `registration` apps to project: (forms only - not data transfer)
 4. Push to GitHub personal repo
-
-
 
 Study Bootstrap
 
