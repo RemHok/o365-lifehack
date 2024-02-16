@@ -15,23 +15,22 @@ To do list will eventually be moved.
 
 #### HOMEWORK FRIDAY 16.02.24
 
-1. create repo and send github link to lifehack[a]omega365.com
-2. read about data types in mySQL : what they are and how we use them
-3. kladd objects for my project.
+1. read about data types in mySQL : what they are and how we use them
+2. create repo and send github link to lifehack[a]omega365.com
+3. crete objects for my project.
    Example: Hotel: (floors, rooms, users, eployees), (employees: tables: name, address, starttime, salary, first name, last name, age) tables and columns (using mySQL?)
 4. go through the `schools` repo and study the files that are there, especially `users.js`
 
-schools/remi_in_session_practice: rebuild from main: branch -> rebase -> origin/main
+* schools (omega365 repo)/remi_in_session_practice: rebuild from main via VSCode: `branch` -> `rebase` -> `origin/main`
 
 #### HOMEWORK FRIDAY 00.00.00
 Thursday sessions moved from thursdays to fridays: 13:15 to 15:00
 
 * Study (prototype)[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/proto]
-* Study arrays very well: push, pop, shift, unshift, forEach. Use W3schools
+* Study arrays: push, pop, shift, unshift, forEach. Use W3schools
   * Create examples
-  * Send email to Moha (lifehack[a]omega365.com) with project GitHub link. Continue work with login and registration apps using apico.
+  * Send email to lifehack[a]omega365.com with project GitHub link. Continue work with login and registration apps using apico.
 * Bonus: Start looking at databases in general; SQL and main queris, getting, fetching, deleting
-
 
 Use Postman API with fetch method
 
