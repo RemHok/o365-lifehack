@@ -13,9 +13,17 @@ To do list will eventually be moved.
 
 ---
 
+#### HOMEWORK MONDAY 19.02.24
+1. Go through the JavaSCript [operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators), especially [increment and decrement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#increment_and_decrement)
+2. Continue building project using Apico. (New project (not in order)): `npm init`, `npm install apico`, `apico init`
+3. Build tables mySQL
+
+Notes from fridays session:
+* [JavaSript Destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
+
 #### HOMEWORK FRIDAY 16.02.24
 
-1. read about data types in mySQL : what they are and how we use them
+1. read about mySQL data types: what they are and how we use them (MySQL 8.3 Reference Manual)[https://dev.mysql.com/doc/refman/8.3/en/]
 2. create repo and send github link to lifehack[a]omega365.com
 3. crete objects for my project.
    Example: Hotel: (floors, rooms, users, eployees), (employees: tables: name, address, starttime, salary, first name, last name, age) tables and columns (using mySQL?)
