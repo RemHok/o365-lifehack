@@ -20,6 +20,7 @@ To do list will eventually be moved.
 
 Notes from fridays session:
 * [JavaSript Destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
+* [How to Check if an Object has a Key in JS](https://www.freecodecamp.org/news/how-to-check-if-an-object-has-a-key-in-javascript/)
 
 #### HOMEWORK FRIDAY 16.02.24
 
